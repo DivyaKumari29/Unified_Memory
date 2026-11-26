@@ -2,10 +2,7 @@
 
 A CUDA experiment comparing **explicit memory copy**, **CUDA Unified Memory** and **Unified Memory with prefetching**, using vector addition at three dataset sizes (1M, 16M and 64M elements).
 
-![CUDA](https://img.shields.io/badge/CUDA-C%2B%2B-76B900?logo=nvidia&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-WSL2%20Ubuntu-informational)
-![Python](https://img.shields.io/badge/Plots-Python%20%7C%20Matplotlib-blue)
-![Verification](https://img.shields.io/badge/Result%20check-PASS%20(9%2F9)-brightgreen)
+
 
 ## Table of Contents
 
